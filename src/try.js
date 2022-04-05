@@ -1,3 +1,7 @@
 let p = document.getElementById("p1")
 
-p.innerHTML = "<h1>Changed!!!!</h1>"
+
+function change() {
+    p.innerHTML = "<h1>Changed!!!!</h1>"
+
+}
