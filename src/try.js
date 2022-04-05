@@ -1,6 +1,6 @@
 let p = document.getElementById("p1")
 
-btn = document.addEventListener("btn")
+btn = document.getElementById("btn")
 console.log("js file")
 
 btn.addEventListener("click", change)
